@@ -1,0 +1,20 @@
+{
+  "name": "component-design-react",
+  "version": "0.0.0",
+  "description": "Codebase for EEConf 'Component Driven Design' presentation",
+  "main": "index.js",
+  "dependencies": {
+    "decode-html": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^4.0.0-beta.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Adam Chambers <adammchambers@gmail.com>",
+  "license": "ISC"
+}

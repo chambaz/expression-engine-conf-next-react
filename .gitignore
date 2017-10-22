@@ -1,0 +1,9 @@
+.DS_Store
+._*
+
+public_html/dist
+
+node_modules
+npm-debug.log
+yarn.lock
+.next
